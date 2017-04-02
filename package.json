@@ -1,7 +1,7 @@
 {
   "name": "node-jwt",
   "version": "1.0.0",
-  "description": "A simple node.js app  example using json web token ",
+  "description": "A simple node.js app  example using json web token.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
