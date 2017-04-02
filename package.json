@@ -1,0 +1,19 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "description": "A simple node.js app  example using json web token ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "giladl82",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.9.2",
+    "morgan": "^1.8.1"
+  }
+}
